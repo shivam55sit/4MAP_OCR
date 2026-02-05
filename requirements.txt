@@ -11,3 +11,4 @@ pillow
 timm
 PaddleOCR
 EasyOCR 
+openpyxl
