@@ -1,0 +1,13 @@
+streamlit
+opencv-python
+numpy
+pandas
+seaborn
+pytesseract
+albumentations
+easyocr
+scikit-image
+pillow
+timm
+PaddleOCR
+EasyOCR 

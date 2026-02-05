@@ -1,0 +1,6 @@
+crops/
+venv/
+__pycache__/
+*jpg
+*png
+*jpeg
